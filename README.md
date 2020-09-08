@@ -1,5 +1,4 @@
 # FinalProject
-## Final Project
 ## IE 407 -- Computational Methods in Optimization
 
 The project assignment is to do an in-depth computational study of a
