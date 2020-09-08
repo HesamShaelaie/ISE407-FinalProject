@@ -1,5 +1,5 @@
 # FinalProject
-## IE 407 -- Computational Methods in Optimization
+## [ISE 407](lehighisecourses.github.io/ISE407] Computational Methods in Optimization
 
 The project assignment is to do an in-depth computational study of a
 problem class or algorithm class relevant to the content of the course.
